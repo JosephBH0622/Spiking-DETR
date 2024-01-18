@@ -1,0 +1,1 @@
+This folder is to save training data of 1Mpx.

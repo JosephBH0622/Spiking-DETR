@@ -1,0 +1,1 @@
+This folder is created to save figures generated in each training to analyze network's performance.
